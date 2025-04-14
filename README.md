@@ -46,7 +46,7 @@ Iris-classifier/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Andrew51234/Iris-classifier.git
+git clone https://github.com/Andrew51234/iris-classifier.git
 cd Iris-classifier
 ```
 
